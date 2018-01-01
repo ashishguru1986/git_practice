@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         //print("This is Dev")
-        print ("Edited Online")
+        print ("Edited Dev Online")
         
         return true
     }
